@@ -10,6 +10,7 @@ ___
 
 - x4 M2x6mm Heat Set Inserts (8 In Total)
 - x4 M3x6mm Heat Set Inserts (8 In Total)
+
 Both of these can be found [HERE on Amazon.com](https://www.amazon.com/Hilitchi-250-Pcs-Threaded-Embedment-Assortment/dp/B0784VYCYY/ref=sr_1_11?keywords=heatset+inserts&qid=1581122832&sr=8-11) in a Single Purchase item.
 
 - x4 M2x12mm or M2x14mm Screws (8 In Total)
