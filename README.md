@@ -1,6 +1,8 @@
 # The_Royal_Vitamins-Included_Case
 A 3D-Printed Case for the Let's Split Vitamins Included Keyboard  **(Original Let's Split Keyboard by Wootpatoot)**
 
+![1](https://github.com/TheRoyalSweatshirt/The_Royal_Vitamins-Included_Case/blob/master/Full_Case_Renders/Main_Top_WC2.png)
+
  These Cases were designed from the PCB Files graciously open-sourced by [Duckle29 HERE ON GITHUB](https://github.com/Duckle29/Vitamins-included)
 
 
